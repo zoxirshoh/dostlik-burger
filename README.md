@@ -27,8 +27,8 @@ A sales and expense tracker built for a local burger business. It records daily 
 The app lives in the `dostlik-burger` folder:
 
 ```bash
-git clone https://github.com/zoxirshoh/do-stlik-burger.git
-cd do-stlik-burger/dostlik-burger
+git clone https://github.com/zoxirshoh/dostlik-burger.git
+cd dostlik-burger/dostlik-burger
 npm install
 npm run dev
 ```
